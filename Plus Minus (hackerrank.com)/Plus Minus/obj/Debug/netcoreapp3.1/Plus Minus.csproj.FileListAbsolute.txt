@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\obj\Debug\netcoreapp3.1\Plus Minus.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\obj\Debug\netcoreapp3.1\Plus Minus.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\obj\Debug\netcoreapp3.1\Plus Minus.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\obj\Debug\netcoreapp3.1\Plus Minus.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\bin\Debug\netcoreapp3.1\Plus Minus.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\bin\Debug\netcoreapp3.1\Plus Minus.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\bin\Debug\netcoreapp3.1\Plus Minus.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\bin\Debug\netcoreapp3.1\Plus Minus.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\bin\Debug\netcoreapp3.1\Plus Minus.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\bin\Debug\netcoreapp3.1\Plus Minus.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\obj\Debug\netcoreapp3.1\Plus Minus.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\obj\Debug\netcoreapp3.1\Plus Minus.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Plus Minus\Plus Minus\obj\Debug\netcoreapp3.1\Plus Minus.genruntimeconfig.cache

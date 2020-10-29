@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\obj\Debug\netcoreapp3.1\Compare Triplets.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\obj\Debug\netcoreapp3.1\Compare Triplets.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\obj\Debug\netcoreapp3.1\Compare Triplets.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\obj\Debug\netcoreapp3.1\Compare Triplets.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\bin\Debug\netcoreapp3.1\Compare Triplets.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\bin\Debug\netcoreapp3.1\Compare Triplets.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\bin\Debug\netcoreapp3.1\Compare Triplets.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\bin\Debug\netcoreapp3.1\Compare Triplets.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\bin\Debug\netcoreapp3.1\Compare Triplets.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\bin\Debug\netcoreapp3.1\Compare Triplets.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\obj\Debug\netcoreapp3.1\Compare Triplets.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\obj\Debug\netcoreapp3.1\Compare Triplets.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Compare Triplets\Compare Triplets\obj\Debug\netcoreapp3.1\Compare Triplets.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\obj\Debug\netcoreapp3.1\Mini-Max Sum.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\obj\Debug\netcoreapp3.1\Mini-Max Sum.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\obj\Debug\netcoreapp3.1\Mini-Max Sum.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\obj\Debug\netcoreapp3.1\Mini-Max Sum.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\bin\Debug\netcoreapp3.1\Mini-Max Sum.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\bin\Debug\netcoreapp3.1\Mini-Max Sum.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\bin\Debug\netcoreapp3.1\Mini-Max Sum.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\bin\Debug\netcoreapp3.1\Mini-Max Sum.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\bin\Debug\netcoreapp3.1\Mini-Max Sum.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\bin\Debug\netcoreapp3.1\Mini-Max Sum.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\obj\Debug\netcoreapp3.1\Mini-Max Sum.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\obj\Debug\netcoreapp3.1\Mini-Max Sum.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Mini-Max Sum\Mini-Max Sum\obj\Debug\netcoreapp3.1\Mini-Max Sum.genruntimeconfig.cache

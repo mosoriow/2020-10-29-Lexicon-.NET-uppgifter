@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Diagonal Difference\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.genruntimeconfig.cache

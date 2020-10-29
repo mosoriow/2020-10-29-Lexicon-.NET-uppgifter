@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\bin\Debug\netcoreapp3.1\Very Big Sum.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\bin\Debug\netcoreapp3.1\Very Big Sum.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\bin\Debug\netcoreapp3.1\Very Big Sum.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\bin\Debug\netcoreapp3.1\Very Big Sum.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\bin\Debug\netcoreapp3.1\Very Big Sum.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\bin\Debug\netcoreapp3.1\Very Big Sum.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\obj\Debug\netcoreapp3.1\Very Big Sum.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\obj\Debug\netcoreapp3.1\Very Big Sum.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\obj\Debug\netcoreapp3.1\Very Big Sum.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\obj\Debug\netcoreapp3.1\Very Big Sum.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\obj\Debug\netcoreapp3.1\Very Big Sum.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\obj\Debug\netcoreapp3.1\Very Big Sum.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Very Big Sum\Very Big Sum\obj\Debug\netcoreapp3.1\Very Big Sum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\bin\Debug\netcoreapp3.1\Birthday Cake Candles.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\bin\Debug\netcoreapp3.1\Birthday Cake Candles.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\bin\Debug\netcoreapp3.1\Birthday Cake Candles.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\bin\Debug\netcoreapp3.1\Birthday Cake Candles.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\bin\Debug\netcoreapp3.1\Birthday Cake Candles.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\bin\Debug\netcoreapp3.1\Birthday Cake Candles.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\netcoreapp3.1\Birthday Cake Candles.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\netcoreapp3.1\Birthday Cake Candles.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\netcoreapp3.1\Birthday Cake Candles.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\netcoreapp3.1\Birthday Cake Candles.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\netcoreapp3.1\Birthday Cake Candles.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\netcoreapp3.1\Birthday Cake Candles.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\netcoreapp3.1\Birthday Cake Candles.genruntimeconfig.cache
